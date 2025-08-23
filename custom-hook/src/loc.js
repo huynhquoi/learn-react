@@ -1,3 +1,5 @@
+export const BASE_URL = "http://localhost:3000";
+
 function toRad(value) {
   return (value * Math.PI) / 180;
 }
